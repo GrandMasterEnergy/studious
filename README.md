@@ -1,2 +1,3 @@
-# studious - digital nomads 
-her ser man et utdrag noen reiser fra digital nomad dataset, datasettet inneholder informasjon om reiser, personer og land. Man skulle da finne ut hvilken utdanning personer hadde og hvor mest reiser var gjort både for et individuelt land og år.
+# Some data science projects
+
+This repository includes some of the project done in data science on exchange, some topics covered is EDA, Network analysis and NLP some more deep learning will be added soon 
